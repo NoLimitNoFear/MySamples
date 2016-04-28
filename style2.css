@@ -1,0 +1,22 @@
+.child{
+       height: 400px;
+       width: 33%;
+    float: right;
+   }
+.child1{
+
+    background-color: mediumvioletred;
+}
+.child2{
+
+    background-color: aqua;
+}
+.child3{
+
+    background-color: aquamarine;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
